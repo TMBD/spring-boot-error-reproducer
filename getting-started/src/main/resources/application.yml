@@ -1,0 +1,4 @@
+connectors:
+  name: MyConfigNameFromYML
+  e:
+    id: employeeIdFromYML
